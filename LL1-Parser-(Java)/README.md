@@ -1,0 +1,7 @@
+# Group Members
+JAMES KABECHA BORO - 098433
+JOSHUA OCHARO MOMANYI - 101571
+DAVID MOTAROKI OGARO - 101485
+PAPA BLAISE – 102156
+
+Syntax analysis with table-driven LL(1) parser.
