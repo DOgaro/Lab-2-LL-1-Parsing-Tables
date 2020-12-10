@@ -1,2 +1,8 @@
-# Lab-2-LL--1--Parsing-Tables
- Lab-2-LL--1--Parsing-Tables
+# Lab-2-LL(1)Parsing-Tables
+ Lab-2-LL(1)Parsing-Tables
+ 
+# Group Members
+JAMES KABECHA BORO - 098433
+JOSHUA OCHARO MOMANYI - 101571
+DAVID MOTAROKI OGARO - 101485
+PAPA BLAISE – 102156
